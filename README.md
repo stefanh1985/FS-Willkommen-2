@@ -298,4 +298,134 @@ Hier finden sich die [Freistellungsunterlagen](https://cloud.die-kinderwelt.com/
 Je nachdem, ob du bei der Kinderwelt oder bei einem anderen Träger deinen Arbeitsvertrag hast verändern sich auch die Fragen, die sich im Laufe der Ausbilungszeit stellen können.
 Dieser Abschnitt dient dazu aufzuzeigen welche Personen für welche Herausforderungen Ansprechpartner*in ist. 
 
-🛠 **Aufgabe**: Verschaffe dir einen Überblick über die Aufgaben der einzelnen Personen innerhalb der Pädagogika und der Kinderwelt, damit du bei Fragen / Herausforderungen gezielte Hilfsanfragen stellen kannst.
+>🛠 **Aufgabe**: Verschaffe dir einen Überblick über die Aufgaben der einzelnen Personen innerhalb der Pädagogika und der Kinderwelt, damit du bei Fragen / Herausforderungen gezielte Hilfsanfragen stellen kannst.
+
+<details>
+<summary>Zuständig für meine Lohnabrechnung</summary>
+
+ Andrea Behling
+
+</details>
+
+<details>
+<summary>Meine Aufgabe im Unternehmen</summary>
+
+Ich kümmere mich um deine Lohnabbrechnung
+
+</details>
+
+<details>
+<summary>Ihr erreicht mich unter</summary>
+
+
+E-Mail: finanzen2@die-kinderwelt.com
+
+</details>
+
+
+---
+
+<section>
+
+<details>
+<summary>Zuständig für meine Kita</summary>
+
+ Mirijam Grasedyck
+
+</details>
+
+<details>
+<summary>Meine Aufgabe im Unternehmen</summary>
+
+Ich kümmere mich um die Bereichsleitung der Kindrtagestätten bei der Kinderwelt, dass bedeutet, dass ich das Bindeglied zwischen Kita und Träger bin. Damit bin ich auch erste Ansprechperson für euch Rund um Fragen zum Kitaträger. Ich veranstalte auch mit Kolleg*innen das Azubitreffen und die Treffen mit den Praxisanleiter*innen 
+
+
+</details>
+
+<details>
+<summary>Ihr erreicht mich unter</summary>
+
+
+E-Mail: mirijam.grasedyck@die-kinderwelt.com
+
+</details>
+
+</section>
+
+---
+
+
+
+<details>
+<summary>Zuständig für meine Praxiskoordination</summary>
+
+ Susanne Urban
+
+</details>
+
+<details>
+<summary>Meine Aufgabe im Unternehmen</summary>
+
+Ich berate die Kitas bei der Realisierung von pädagogischen Konzepten und pädagogischen Alltagsherausforderungen. Darüber hinaus besuche ich euch neben den Lehrkräften am Praxisort.
+
+
+</details>
+
+
+<details>
+<summary>Ihr erreicht mich unter</summary>
+
+Telefon: +49 15906757735
+E-Mail: fb1@paedagogika.com
+
+</details>
+
+
+---
+
+# Wichtige Tools🧰 
+
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/3oFzmhSdxPiyRyR5vi" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/animation-knife-stopmotion-3oFzmhSdxPiyRyR5vi">via GIPHY</a></p>
+
+## Moodle - unser Lernmanagementsystem 💻
+
+![moodle icon](https://tracker.moodle.org/secure/attachment/62695/Mobile-M-Icon-1-corners.png)
+Bei Moodle handelt es sich um ein [Open-Source-Lern-Management-System](https://www.redhat.com/de/topics/open-source/what-is-open-source), das ermöglicht, gemeinschaftlich Unterrichtsgegenstände abzulegen, zu verändern und weiterzubearbeiten, und über die Funktion 'Forum' in Kontakt zu bleiben. Schaut das folgende Video bis Minute 3:55 an
+
+!?[Was ist eigentlich Moodle](https://www.youtube.com/watch?v=FC-GWDvlX8c&start=235)
+
+
+### So ist die Moodlestrukur
+<details>
+<summary>Wie ist moodle strukturiert?</summary>
+
+ Moodle ist, wie folgende Abbildung zeigt, in zwei Teile unterteilt, die mit verschiedenen Zugangsrechten versehen sind. Einerseits der 'Studierendenbereich'. Hier existieren die 'Allgemeine Informationen', der für alle Jahrgänge zugänglich ist und allgemeine Informationen enthält, die für alle Jahrgänge bzw. Klassen gleichermaßen relevant sind. Darüber hinaus gibt es die 'Klassenzimmer', die nach Jahrgängen getrennt sind. Studierende haben nur zu ihrem jeweiligen Jahrgang Zugang, d.h. die Klassenzimmer sind nach Jahrgangsstufen getrennt. In der Konsequenz bedeutet das, dass jeder nur jenen Bereich zu sehen bekommt, der für ihn/sie relevant ist.
+
+
+
+</details>
+
+<details>
+<summary>Meine Aufgabe im Unternehmen</summary>
+
+Ich berate die Kitas bei der Realisierung von pädagogischen Konzepten und pädagogischen Alltagsherausforderungen. Darüber hinaus besuche ich euch neben den Lehrkräften am Praxisort.
+
+
+</details>
+
+
+<details>
+<summary>Ihr erreicht mich unter</summary>
+
+Telefon: +49 15906757735
+E-Mail: fb1@paedagogika.com
+
+</details>
+
+
+
+
+
+
+### Si ist die Moodlestruktur
+??[](https://app.Lumi.education/api/v1/run/zMeHFD/embed)
