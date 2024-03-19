@@ -61,7 +61,7 @@ details[open] > *:not(summary) {
 
 Es sind viele Menschen notwendig, damit du eine qualitativ hochwertige Ausbildung absolvieren kannst. Auf dieser Seite werden die fleißigen Helferlein vorstellen.
 
-### Nadine Linde - Das Herz der Pädagogika
+**Nadine Linde - Das Herz der Pädagogika**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tVYxIDDDNzY?si=s4MOPGKicddag_Be" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -94,7 +94,7 @@ E-Mail: info@paedagogika.com
 
 
 
-## Anja Günther-Richter - Das Head of
+**Anja Günther-Richter - Das Head of**
 
 ![Anja Günther-Richter](https://paedagogika.com/paedagogika/team/index.php?rex_media_type=tinymcewysiwyg&rex_media_file=anja-guenther.jpg)<!-- class="person-img" -->
 
@@ -224,22 +224,22 @@ E-Mail: stefan.hierholzer@paedagogika.com
 <details>
 <summary>Meine Zentrale Eigenschaft</summary>
 
-Hallo, mein Name ist Stefan Hierholzer, zusammen mit Andrea Hoppe darf ich die Pädagogika Fachschule in ihrer Entwicklung begleiten. Gebürtig aus Süddeutschland (Sindelfingen bei Stuttgart) habe ich in Lüneburg Lehramt an berufsbildenden Schulen, Fachrichtung Sozialpädagogik studiert und an verschiedenen Schulen und Hochschulen gearbeitet und gelehrt. Nun leiten Andrea Hoppe und ich zusammen die Geschicke der Pädagogika Fachschule für Sozialwesen. Bei Fragen stehe ich gerne zur Verfügung.
+Hallo, mein Name ist Susanne Urban ich bin die Praxiskoordinatorin und für Fragen und Herausforderungen im Zusammenhang mit den Praxiseinrichtungen zuständig. Ich bin selbst gelernte Erzieherin, systemische Beraterin und Mediatorin.
 
 </details>
 
 <details>
 <summary>Meine Aufgabe im Unternehmen</summary>
 
-Ich bin mit Andrea Hoppe die Co-Schulleitung und bin mit den pädagogischen Aufgaben betraut. 
+Ich berate die Kitas bei der Realisierung von pädagogischen Konzepten und pädagogischen Alltagsherausforderungen. Darüber hinaus besuche ich euch neben den Lehrkräften am Praxisort 
 
 </details>
 
 <details>
 <summary>Ihr erreicht mich unter</summary>
 
-Telefonnummer: +4933170476211
+Telefonnummer: +49 15906757735, Di ab 14 Uhr in der Schule
 
-E-Mail: stefan.hierholzer@paedagogika.com
+E-Mail: fb1@paedagogika.com
 
 </details>
