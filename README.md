@@ -316,7 +316,7 @@ Dieser Abschnitt dient dazu aufzuzeigen welche Personen für welche Herausforder
 <details>
 <summary>Meine Aufgabe im Unternehmen</summary>
 
-Ich kümmere mich um deine Lohnabbrechnung
+Ich kümmere mich gemeinsam mit Patrick Röther um deine Lohnabbrechnung
 
 </details>
 
@@ -328,6 +328,36 @@ E-Mail: finanzen2@die-kinderwelt.com
 
 </details>
 
+
+---
+<section>
+
+<details>
+<summary>Zuständig für meine Lohnabbrechnung</summary>
+
+
+Patrick Röther
+
+
+</details>
+
+<details>
+<summary>Meine Aufgabe im Unternehmen</summary>
+
+Ich kümmere mich gemeinsam mit Andrea Behling um deine Lohnabbrechnung
+
+
+</details>
+
+<details>
+<summary>Ihr erreicht mich unter</summary>
+
+
+E-Mail: finanzen2@die-kinderwelt.com
+
+</details>
+
+</section>
 
 ---
 
@@ -388,6 +418,37 @@ E-Mail: fb1@paedagogika.com
 
 
 ---
+<section>
+
+<details>
+<summary>Zuständig für meine Personalakte</summary>
+
+
+Miriam Kutschbach
+
+
+</details>
+
+<details>
+<summary>Meine Aufgabe im Unternehmen</summary>
+
+Ich kümmere mich um den Bereich Personalwesen. Alles was mit deinem Vertrag zu tun hat ladet bei mir. Wenn du Fort- und Weiterbildungen besuchts und etwaige Zertifikate in die Personalakte sollen bin ich die richtige Ansprechperson für dich. Auch deine 1. Hilfenachweise sind bei mir richtig. Solltest sich deine Anschrift ändern informierst du mich am besten umgehend :-).
+
+
+</details>
+
+<details>
+<summary>Ihr erreicht mich unter</summary>
+
+
+E-Mail: mirjam.kutschbach@die-kinderwelt.com
+
+</details>
+
+</section>
+
+---
+
 
 # Wichtige Tools🧰 
 
