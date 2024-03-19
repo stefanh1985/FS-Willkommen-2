@@ -101,7 +101,7 @@ E-Mail: info@paedagogika.com
 <details>
 <summary>Meine Zentrale Eigenschaft</summary>
 
-Mein häufigster Spruch des Tages : "Hallo und herzlich Willkommen an der Pädagogika".
+Kolleg*innen sagen über mich : "Sie ist die Klarheit und Struktur in Person."
 
 </details>
 
@@ -134,7 +134,7 @@ E-Mail: leitung@paedagogika.com
 <details>
 <summary>Meine Zentrale Eigenschaft</summary>
 
-Mein häufigster Spruch des Tages : "Hallo und herzlich Willkommen an der Pädagogika".
+Kolleg*innen sagen über mich: "Sie strahlt immerzu wie die Sinne und ist neben Nadine die freundlichste Person im Haus."
 
 </details>
 
