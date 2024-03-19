@@ -279,3 +279,23 @@ Auch nahe Angehörige, wie bspw. Kinder können krank werden und damit kann der 
 
 
 </details>
+
+## Unterrichtsfreistellung 🆓
+
+Es besteht die Möglichkeit, vom Unterricht unter bestimmten 
+Bedingungen freigestellt zu werden. Freistellungsgründe sind u.a. 
+hausinterne Fortbildungen, die sich inhaltlich mit Themen des 
+fachschulischen Curriculums decken.
+
+Eine Unterrichtsfreistellung ist mindestens 14 Tage vor dem 
+Freistellungsgesuch schriftlich anzuzeigen und durch die Klassenleitung 
+bzw. Schulleitung genehmigen zu lassen. Ausschließlich die Studierenden 
+sind antragsberechtigt.
+
+Hier finden sich die [Freistellungsunterlagen](https://cloud.die-kinderwelt.com/s/xaDPddjGDweYjTy). Die Unterlagen sind auch in der Studierendenhandakte unter ‘**Unterrichtsfreistellung’** zu finden.
+
+## Wer ist für was zuständig in Pädagogika und Kinderwelt? 🥇
+Je nachdem, ob du bei der Kinderwelt oder bei einem anderen Träger deinen Arbeitsvertrag hast verändern sich auch die Fragen, die sich im Laufe der Ausbilungszeit stellen können.
+Dieser Abschnitt dient dazu aufzuzeigen welche Personen für welche Herausforderungen Ansprechpartner*in ist. 
+
+🛠 **Aufgabe**: Verschaffe dir einen Überblick über die Aufgaben der einzelnen Personen innerhalb der Pädagogika und der Kinderwelt, damit du bei Fragen / Herausforderungen gezielte Hilfsanfragen stellen kannst.
