@@ -243,3 +243,10 @@ Telefonnummer: +49 15906757735, Di ab 14 Uhr in der Schule
 E-Mail: fb1@paedagogika.com
 
 </details>
+
+# So sieht es in der Pädagogika aus- ein virtueller Rundgang 📍
+<iframe src="https://lms.paedagogika.com/mod/hvp/embed.php?id=3485" width="1140" height="666" frameborder="0" allowfullscreen="allowfullscreen" title="Die Pädagogika stellt sich vor"></iframe><script src="https://lms.paedagogika.com/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+# Organisatorisches
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/QszJQ3spkAzcDQgQ70" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/banco-itau-itau-itauunibanco-unibanco-QszJQ3spkAzcDQgQ70">via GIPHY</a></p>
+
