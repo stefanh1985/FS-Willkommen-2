@@ -82,7 +82,7 @@ Ich kümmere mich um die Organisation der Fort- und Weiterbildung, die Raumbeleg
 <details>
 <summary>Ihr erreicht mich unter</summary>
 
-Telefonnummer: 0331 70476200
+Telefonnummer: +4933170476200
 
 E-Mail: info@paedagogika.com
 
@@ -250,3 +250,32 @@ E-Mail: fb1@paedagogika.com
 # Organisatorisches
 <div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/QszJQ3spkAzcDQgQ70" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/banco-itau-itau-itauunibanco-unibanco-QszJQ3spkAzcDQgQ70">via GIPHY</a></p>
 
+## Krankheit- und Abwesenheiten melden 💊
+Keiner ist gerne krank... dennoch passiert dies nun mal, gerade wenn man neu im sozialpädagogischen Arbeitsfeld ist und damit im Dauerkontakt zu Menschen steht.
+
+> Prinzipiell gilt, dass alle Kranktage sofort und unverzüglich telefonisch bzw. via Mail zu melden sind, damit eine ordnungsgemäße Dokumentation erfolgen kann
+
+<details>
+<summary>Wo melde ich mich krank?</summary>
+
+Bis spätestens 08:00 Uhr meldet ihr euch sowohl telefonisch als auch via E-Mail krank.
+Telefon: +4933170476200
+E-Mail: krankschreibung@paedagogika.com
+
+</details>
+
+<details>
+<summary>Meine Angehöriger ist krank- was ist zu tun?</summary>
+
+Auch nahe Angehörige, wie bspw. Kinder können krank werden und damit kann der Schulbesuch verunmöglicht sein. In diesen Fällen gilt ebenfalls eine Abmeldung bis 08:00 Uhr und die Krankschrift des Angehörigen wird vorgelegt.
+ 
+
+</details>
+
+<details>
+<summary>Fehlzeitenregelung</summary>
+
+"Krank ist krank, dies gilt schon arbeitsrechtlich. Allerdings dürfen die Fehlzeiten nicht 50% der Gesamtausbildungszeit überschreiten, da sonst die Ausbildung nicht ordnungsgemäß beendet werden kann bzw. es keine Anmeldung zur Prüfung gibt. Daher gilt es immer abzuwägen, wie schwerwiegend eine Erkrankung ist.
+
+
+</details>
