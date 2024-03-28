@@ -157,6 +157,8 @@ E-Mail: sandra.schmidt@paedagogika.com
 
 **Andrea Hoppe - Organisatorische Schulleitung**
 ===
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ftLPYN7bQ1A?si=bubOGlmyBwN5_HG8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ![Andrea Hoppe - Organisatorische Schulleitung](https://paedagogika.com/paedagogika/team/index.php?rex_media_type=tinymcewysiwyg&rex_media_file=andrea-hoppe.jpg)<!-- class="person-img" -->
 
