@@ -188,6 +188,8 @@ E-Mail: andrea.hoppe@paedagogika.com
 
 **Stefan Hierholzer - Pädagogische Schulleitung**
 ===
+<iframe width="560" height="315" src="https://www.youtube.com/embed/04swFLqgWSk?si=NbT0cxL_wkkI7glH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ![Stefan Hierholzer -Pädagogische Schulleitung](https://paedagogika.com/paedagogika/team/index.php?rex_media_type=tinymcewysiwyg&rex_media_file=stefan-hierholzer.jpg)<!-- class="person-img" -->
 
