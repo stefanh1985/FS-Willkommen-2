@@ -98,6 +98,8 @@ E-Mail: info@paedagogika.com
 
 ![Anja Günther-Richter](https://paedagogika.com/paedagogika/team/index.php?rex_media_type=tinymcewysiwyg&rex_media_file=anja-guenther.jpg)<!-- class="person-img" -->
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bOIYYzZujyo?si=PQpxu1MviMIB57wZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <details>
 <summary>Meine Zentrale Eigenschaft</summary>
 
