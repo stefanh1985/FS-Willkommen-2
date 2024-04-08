@@ -458,6 +458,39 @@ E-Mail: mirjam.kutschbach@die-kinderwelt.com
 ---
 
 
+---
+<section>
+
+<details>
+<summary>Zuständig für meine Personalakte</summary>
+
+
+Henrike Schrödel
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cMGvkAMr3ns?si=H4klLOTrA139ReBv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</details>
+
+<details>
+<summary>Meine Aufgabe im Unternehmen</summary>
+
+Ich bin im Unternehmen für die Teamleitung Fachberatung, Weiterbildungsmanagement, Fachberatung Kindertagespflege & Kita zuständig. Mich werdet ihr eher nebenbei im Büro antreffen, da ich nicht direkt etwas mit der Fachschule zu tun habe.
+
+
+</details>
+
+<details>
+<summary>Ihr erreicht mich unter</summary>
+
+
+E-Mail: mail@paedagogika.com
+
+</details>
+
+</section>
+
+---
+
 # Wichtige Tools🧰 
 
 <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/3oFzmhSdxPiyRyR5vi" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/animation-knife-stopmotion-3oFzmhSdxPiyRyR5vi">via GIPHY</a></p>
