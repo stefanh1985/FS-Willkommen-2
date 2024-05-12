@@ -306,7 +306,7 @@ Freistellungsgesuch schriftlich anzuzeigen und durch die Klassenleitung
 bzw. Schulleitung genehmigen zu lassen. Ausschließlich die Studierenden 
 sind antragsberechtigt.
 
-Hier finden sich die [Freistellungsunterlagen](https://cloud.die-kinderwelt.com/s/xaDPddjGDweYjTy). Die Unterlagen sind auch in der Studierendenhandakte unter ‘**Unterrichtsfreistellung’** zu finden.
+Hier finden sich die [Freistellungsunterlagen](https://cloud.die-kinderwelt.com/s/Zi79jzA4NtN7Z2g). Die Unterlagen sind auch in der Studierendenhandakte unter ‘**Freistellungsantrag** zu finden.
 
 ## Wer ist für was zuständig in Pädagogika und Kinderwelt? 🥇
 Je nachdem, ob du bei der Kinderwelt oder bei einem anderen Träger deinen Arbeitsvertrag hast verändern sich auch die Fragen, die sich im Laufe der Ausbilungszeit stellen können.
@@ -534,6 +534,20 @@ Grundsätzlich gilt, dass alle Lehrpersonen ihren Unterricht selbständig und na
 > 🛠 ** Aufgabe**: Erstelle dir einen Account bei [HackMD](https://hackmd.okfn.de/).
 
 <iframe src="https://app.Lumi.education/api/v1/run/8S2Ham/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://app.Lumi.education/api/v1/h5p/core/js/h5p-resizer.js" charset="UTF-8" />
+
+# Word= Fehlanzeige 📎
+Unserem Selbstverständnis nach setzten wir wann immer möglich auf ][Open-Source-Produkte](https://www.redhat.com/de/topics/open-source/what-is-open-source) um einen breiten Raum für Bildungsgrechtigkeit zu stärken. Unser Bring Your Ownd Device Konzept führt dazu, dass studierenden die unterschiedlichsten Schreibprogramme mit bringen, von Word über OpenOffice bis hin zu LibreOffice, dies führt im Studienalltag oft zu Herausforderungen bezogen auf die Kompartibilität der Programme...nicht selten führt dies zu Frust. 
+Deshalb haben wir entschieden gemeinsam mittels Overleaf Latx zu erlernen was Latex ist erklärt das nachfolgende Video.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cNw-f1SiJII?si=vZjYb9wpi_EbVdJb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+> 🛠 ** Aufgabe**: Erstelle dir einen Account bei [overleaf](https://www.overleaf.com/).
+
+
+Ihr müsst euch das Programm **nicht** selbst aneigenen, dass machen wir gemeinsam...er aber neugierig ist darf sich auch schon einmal den Selbstlernkurs den ich erstellt habe einmal anschauen:
+
+[Stefans Latex-Selbstlernkurs](https://liascript.github.io/course/?https://github.com/stefanh1985/FS_Latex_overleaf)
+
 
 # Das Lernjournal 📰
 
