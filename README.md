@@ -590,12 +590,3 @@ Damit eine Nachforschung erfolgreich ist haben sich verschiedene Suchstrategien 
 
 <iframe src="https://app.Lumi.education/api/v1/run/TIX-iL/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
 
-# Bibliothek 📑
-
-> 🛠**Aufgabe**: Finde heraus, welche Signaturen und Titel die Bücher von Stefan Hierholzer haben. Erkläre deinen Mitstudierenden in der Kennenlernwoche, wie du bei der Recherche vorgegangen bist.
-
-An der Pädagogika existiert auch eine eigene Bibliothek, die zur Recherche für verschiedene Themen innerhalb der Ausbildung / des Studiums zur Verfügung steht.
-
-Die Bibliothek verfügt über das [Open-Source](https://www.redhat.com/de/topics/open-source/what-is-open-source)-Bibliotheksprogramm Koha
-
-> **Koha** ist ein [integriertes Bibliothekssystem](https://de.wikipedia.org/wiki/Bibliothekssystem). Es wird als [Open-Source-Software](https://de.wikipedia.org/wiki/Open_Source) weltweit in [öffentlichen](https://de.wikipedia.org/wiki/%C3%96ffentliche_Bibliothek), [Schul-](https://de.wikipedia.org/wiki/Schulbibliothek) und anderen [Bibliotheken](https://de.wikipedia.org/wiki/Bibliothek) eingesetzt. Der Name leitet sich von dem [Māori-Wort](https://de.wikipedia.org/wiki/Maorische_Sprache) „Koha“ ab. In der Kultur der [Māori](https://de.wikipedia.org/wiki/M%C4%81ori) ist das ein Geschenk, bei dem man ein Gegengeschenk erwartet.
