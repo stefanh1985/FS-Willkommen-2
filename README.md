@@ -535,15 +535,6 @@ Grundsätzlich gilt, dass alle Lehrpersonen ihren Unterricht selbständig und na
 
 <iframe src="https://app.Lumi.education/api/v1/run/8S2Ham/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://app.Lumi.education/api/v1/h5p/core/js/h5p-resizer.js" charset="UTF-8" />
 
-
-# Das Lernjournal 📰
-
-Das Lernjournal ist ein Begleiter durch den Theorieunterricht über die gesamte Ausbildung hinweg. Auf der folgenden Seite wird gezeigt wie es aussieht, wie es zu führen ist und wozu es da ist.
-
-> 🛠 **Aufgabe**: Informiert euch bei den jeweiligen Links zu den Themen und ließ dir alles durch.
-
-<iframe src="https://app.Lumi.education/api/v1/run/ZN6gXx/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://app.Lumi.education/api/v1/h5p/core/js/h5p-resizer.js" charset="UTF-8" />
-
 # Professions-, Lese-, Lern- und Recherchestrategien 🧩
 
 ## Professionstheorie, Kompetenzbegriff und forschendes Lernen
