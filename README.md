@@ -157,39 +157,6 @@ E-Mail: sandra.schmidt@paedagogika.com
 
 </details>
 
-**Andrea Hoppe - Organisatorische Schulleitung**
-===
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ftLPYN7bQ1A?si=bubOGlmyBwN5_HG8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-![Andrea Hoppe - Organisatorische Schulleitung](https://paedagogika.com/paedagogika/team/index.php?rex_media_type=tinymcewysiwyg&rex_media_file=andrea-hoppe.jpg)<!-- class="person-img" -->
-
-
-<details>
-<summary>Meine Zentrale Eigenschaft</summary>
-
-Seit bald vierzig Jahren beschäftige ich mich mit pädagogischen Themen. Erst selbst als Erzieherin in unterschiedlichen Arbeitsfeldern in Berlin und nach dem Studium war ich bald als Dozentin in Aus- und Weiterbildung für ErzieherInnen an unterschiedlichen Standorten in Berlin und Brandenburg tätig. Im Team mit Stefan Hierholzer Bildungswege in der Pädagogika Fachschule für Sozialwesen zu begleiten, ist meine Passion. 
-Mit Kopf Herz und Hand bin auch ich für Sie da.
-
-</details>
-
-<details>
-<summary>Meine Aufgabe im Unternehmen</summary>
-
-Ich bin mit Stefan Hierholzer die Co-Schulleitung und bin mit den organisatorischen Aufgaben betraut. 
-
-
-</details>
-
-<details>
-<summary>Ihr erreicht mich unter</summary>
-
-Telefonnummer: +4933170476212
-
-E-Mail: andrea.hoppe@paedagogika.com
-
-</details>
-
 **Stefan Hierholzer - Pädagogische Schulleitung**
 ===
 <iframe width="560" height="315" src="https://www.youtube.com/embed/04swFLqgWSk?si=NbT0cxL_wkkI7glH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -551,6 +518,48 @@ Grundsätzlich gilt, dass alle Lehrpersonen ihren Unterricht selbständig und na
 > 🛠 ** Aufgabe**: Erstelle dir einen Account bei [HackMD](https://hackmd.okfn.de/).
 
 <iframe src="https://app.Lumi.education/api/v1/run/8S2Ham/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://app.Lumi.education/api/v1/h5p/core/js/h5p-resizer.js" charset="UTF-8" />
+
+# OnlyOffice – Gemeinsam schreiben, einheitlich arbeiten ✍️
+
+## Was ist OnlyOffice?
+
+OnlyOffice ist eine **plattformübergreifende Office-Suite**, mit der Texte, Tabellen und Präsentationen erstellt, bearbeitet und gemeinsam genutzt werden können. Sie ist webbasiert nutzbar, kann aber auch lokal auf Endgeräten installiert werden. Wir nutzen sie zunächst lokal auf euren Endgeräten. OnlyOffice ist – wie viele unserer zentralen Systeme – **Open Source**.
+
+Für unsere Fachschule spielt OnlyOffice eine wichtige Rolle, da es eine **einheitliche Arbeitsumgebung** für schriftliche Aufgaben, Dokumentationen und Projektarbeiten schafft.
+
+## Warum setzen wir OnlyOffice ein?
+
+An unserer Schule arbeiten wir nach dem Prinzip **BYOD (Bring Your Own Device)**. Das bedeutet:
+
+- Studierende nutzen unterschiedliche Endgeräte (z. B. Laptop oder Tablet)
+- verschiedene Betriebssysteme (Windows, macOS, Linux)
+- unterschiedliche Office-Programme und Versionsstände
+
+Diese Vielfalt führt in der Praxis häufig zu Problemen:
+
+- veränderte Formatierungen  
+- nicht kompatible Dateiversionen  
+- unterschiedliche Darstellungen ein und desselben Dokuments  
+
+OnlyOffice hilft, diese Herausforderungen gezielt zu lösen. Durch die Nutzung **einer gemeinsamen Schreibumgebung** werden Dokumente einheitlich dargestellt.
+
+## Was bedeutet das konkret für euch?
+
+OnlyOffice wird bei uns regelmäßig für:
+
+- schriftliche Arbeitsaufträge  
+- Gruppenarbeiten  
+- Projekt- und Dokumentationsaufgaben  
+- kollaborative Schreibprozesse  
+
+eingesetzt. Eine sichere Bedienung gehört damit zu den grundlegenden digitalen Arbeitstechniken an unserer Schule.
+
+Bitte sorgt **zeitnah** dafür, dass ihr OnlyOffice auf euren Endgeräten installiert habt.
+
+> 🛠 **Aufgabe**: - Installiert OnlyOffice (https://www.onlyoffice.com/de/download-desktop) auf eurem persönlichen Endgerät (Laptop oder Tablet).
+Weitere Hinweise zur Nutzung und zum Einsatz im Unterricht folgen im Verlauf der Ausbildung.
+
+> 💡 Tipp: Plant die Installation frühzeitig ein, damit ihr bei ersten Schreibaufgaben direkt arbeitsfähig seid.
 
 # Professions-, Lese-, Lern- und Recherchestrategien 🧩
 
