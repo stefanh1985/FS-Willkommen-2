@@ -561,6 +561,158 @@ Weitere Hinweise zur Nutzung und zum Einsatz im Unterricht folgen im Verlauf der
 
 > 💡 Tipp: Plant die Installation frühzeitig ein, damit ihr bei ersten Schreibaufgaben direkt arbeitsfähig seid.
 
+# Ollama – Lokale KI nutzen, Datenschutz wahren 🤖
+
+> 🧩 **Wichtiger Hinweis vorab**  
+> Wenn die Installation von Ollama bei euch **nicht sofort klappt**, ist das **kein Problem**. Niemand erwartet, dass zu Beginn alles technisch reibungslos funktioniert.  
+> Wichtig ist: **Freut euch auf die Einschulung und den Start der Ausbildung.** Technische Herausforderungen begegnen wir **gemeinsam** und lösen sie Schritt für Schritt im Verlauf der ersten Wochen.
+
+## Was ist Ollama?
+
+Ollama ist ein **Open-Source-Werkzeug**, mit dem große Sprachmodelle (KI-Modelle) **lokal auf dem eigenen Endgerät** ausgeführt werden können. Anders als bei vielen bekannten KI-Diensten werden Texte, Eingaben und Ergebnisse **nicht an externe Server übertragen**, sondern ausschließlich auf eurem Rechner verarbeitet.
+
+Ollama ist plattformübergreifend verfügbar (Windows, macOS, Linux) und ermöglicht es, KI-Modelle gezielt für Lern-, Schreib- und Analyseprozesse einzusetzen – **ohne Cloud-Zwang**.
+
+## Warum setzen wir Ollama ein?
+
+Im Rahmen der Ausbildung arbeiten wir zunehmend mit KI-gestützten Werkzeugen. Dabei gelten für uns klare fachliche und datenschutzrechtliche Leitlinien:
+
+- sensible Inhalte (z. B. Fallbeispiele, Reflexionen, Entwürfe)
+- schulische Aufgaben und Leistungsnachweise
+- personenbezogene oder einrichtungsbezogene Informationen
+
+Diese Inhalte **dürfen nicht unkontrolliert in externe KI-Systeme eingegeben werden**.
+
+Ollama bietet hier einen entscheidenden Vorteil:
+
+- vollständige **lokale Verarbeitung**
+- **keine automatische Datenspeicherung in der Cloud**
+- transparente Kontrolle über eingesetzte Modelle
+- konsequente Orientierung an Datenschutz und Professionalität
+
+Damit ist Ollama ein geeignetes Werkzeug, um **KI reflektiert, verantwortungsvoll und fachlich fundiert** in Lernprozesse einzubinden.
+
+## Was bedeutet das konkret für euch?
+
+Ollama kann euch u. a. unterstützen bei:
+
+- dem Strukturieren von Textentwürfen
+- dem Formulieren und Überarbeiten fachlicher Texte
+- der Vorbereitung von Reflexionen (ohne Inhalte „abzugeben“)
+- dem Klären von Begriffen und Zusammenhängen
+- dem Üben fachsprachlicher Präzision
+
+Wichtig: Ollama **ersetzt keine eigenständige Leistung**. Es ist ein Werkzeug zur Unterstützung von Denk-, Schreib- und Lernprozessen – nicht zur Abgabe fremder Inhalte.
+
+## Was erwarten wir im Umgang mit KI-Werkzeugen?
+
+Der Einsatz von KI erfolgt bei uns:
+
+- transparent (Nutzung wird kenntlich gemacht, wenn relevant)
+- reflektiert (kritische Prüfung der Ergebnisse)
+- fachlich verantwortet
+- im Einklang mit schulischen Vorgaben
+
+Unreflektiertes Kopieren oder das Einreichen KI-generierter Texte als eigene Leistung ist **nicht zulässig**.
+
+## Installation und erste Schritte
+
+> 📦 **Kurze Orientierung vorab: Was heißt das für mein Gerät?**  
+> **Ich habe einen Windows-Laptop:** Ihr könnt Ollama in der Regel installieren und ausprobieren. Wenn es nicht klappt: kein Problem, wir unterstützen euch.  
+> **Ich habe einen Mac (Apple):** Mit einem neueren macOS funktioniert Ollama meist gut. Bei älteren Geräten einfach stoppen und zur Einschulung mitbringen.  
+> **Ich habe nur ein Tablet (iPad/Android):** Das ist **kein Nachteil**. Ollama läuft dort meist nicht lokal. Ihr könnt trotzdem problemlos in die Ausbildung starten – wir klären gemeinsam Alternativen und Nutzungsmöglichkeiten.
+
+Bitte sorgt dafür, dass Ollama **auf einem Laptop oder Desktop** installiert ist. Ollama benötigt spürbare Rechenleistung und Speicher – auf typischen Tablets ist das **nicht** realistisch (Details unten).
+
+!?[Videoanleitung Ollama Installation](https://youtu.be/zhOgj7MiqNc?si=kltcxqtJbeXM1VoH)
+
+### Windows (10/11) – Schritt für Schritt
+
+1. **Download öffnen**
+   - Öffnet die offizielle Download-Seite: https://ollama.com/download
+   - Wählt **Windows** aus.
+
+2. **Installer herunterladen**
+   - Ladet die **.exe** herunter.
+
+3. **Installer starten**
+   - Doppelklick auf die heruntergeladene Datei.
+   - Die Installation läuft automatisch durch.
+
+4. **Funktion prüfen – ganz in Ruhe**
+   - Klickt auf das **Windows-Startsymbol**.
+   - Gebt **PowerShell** oder **Eingabeaufforderung** ein und öffnet das Programm.
+   - Es erscheint ein dunkles Fenster – das ist normal.
+   - Tippt ein:
+     ```
+     ollama --version
+     ```
+   - Drückt die **Eingabetaste**.
+   - Erscheint eine Versionsnummer → alles gut.  
+     Fehlermeldung → **kein Problem**, einfach stoppen.
+
+5. **Erstes Modell testen – nur wenn ihr möchtet**
+   - Tippt:
+     ```
+     ollama run llama3.2:1b
+     ```
+   - Das Modell wird heruntergeladen (dauert, braucht Speicher).
+   - Wenn euch das zu technisch ist: **Abbrechen ist völlig in Ordnung**.
+
+### macOS (Apple) – Schritt für Schritt
+
+> 🧘 **Vorab zur Beruhigung**  
+> Wenn euch Begriffe wie „Terminal“ nichts sagen: **Das ist völlig normal**. Ihr müsst nichts verstehen, nur folgen. Abbrechen ist jederzeit ok.
+
+**Hinweis:** Erforderlich ist **macOS 14 (Sonoma) oder neuer**.
+
+1. Öffnet euren Browser und geht zu:  
+   https://ollama.com/download/mac
+
+2. Startet den Download.
+
+3. Öffnet den Ordner **Downloads** und doppelklickt die Datei.
+
+4. Zieht das Ollama-Symbol in den Ordner **Programme**.
+
+5. Startet **Ollama** über den Programme-Ordner.
+
+6. **Optional prüfen**
+   - Klickt auf die **Lupe** (oben rechts).
+   - Gebt **Terminal** ein und öffnet es.
+   - Tippt:
+     ```
+     ollama --version
+     ```
+   - Versionsnummer → ok.  
+     Unsicher? → einfach stoppen.
+
+7. **Optionales Testmodell**
+Fenster schließen reicht, wenn es euch zu viel wird.
+
+### Mindestanforderungen – realistischer Geräte-Check
+
+- **Betriebssystem:** Windows 10/11 oder macOS 14+
+- **RAM:** mindestens **8 GB**
+- **Speicher:** **20–30 GB frei**
+- **CPU:** moderner Mehrkern-Prozessor
+
+> ⚠️ **Klartext**: Sehr alte Laptops oder reine Tablets stoßen hier an Grenzen. Das ist kein persönliches Versagen.
+
+### Grenzen bei Tablets (iPad/Android)
+
+- Keine vollwertige lokale Installation möglich
+- Nutzung ggf. **indirekt** (Tablet greift auf Laptop zu)
+- **Kein Nachteil für den Ausbildungsstart**
+
+> 🛠 **Aufgabe**  
+> - Wenn möglich: Ollama installieren  
+> - Wenn nicht: **kein Stress**, wir klären das gemeinsam
+
+> 🧩 **Zum Abschluss – ganz wichtig**  
+> Sollte Ollama bei euch **nicht funktionieren**, ist das **unproblematisch**.  
+> Entscheidend sind **Lernbereitschaft, Offenheit und ein guter Start** – nicht perfekte Technik.
+
 # Professions-, Lese-, Lern- und Recherchestrategien 🧩
 
 ## Professionstheorie, Kompetenzbegriff und forschendes Lernen
